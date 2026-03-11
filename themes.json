@@ -320,12 +320,13 @@
         "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/d8b79d4a-6cba-4495-9ff6-d6d30b0e94fe/readme.md",
         "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/d8b79d4a-6cba-4495-9ff6-d6d30b0e94fe/image.png",
         "author": "HliasOuzounis",
-        "version": "1.0.3",
+        "version": "1.1.0",
         "tags": [
             "tabs"
         ],
         "createdAt": "2024-09-07",
-        "updatedAt": "2025-01-26"
+        "updatedAt": "2025-11-18",
+        "preferences": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/d8b79d4a-6cba-4495-9ff6-d6d30b0e94fe/preferences.json"
     },
     "570afd9d-96fa-48b5-bad3-0c106757cce9": {
         "id": "570afd9d-96fa-48b5-bad3-0c106757cce9",
@@ -414,10 +415,10 @@
         "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/c01d3e22-1cee-45c1-a25e-53c0f180eea8/readme.md",
         "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/c01d3e22-1cee-45c1-a25e-53c0f180eea8/image.png",
         "author": "Seismix",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "tags": [],
         "createdAt": "2025-10-02",
-        "updatedAt": "2025-10-02"
+        "updatedAt": "2026-03-11"
     },
     "378ba8b9-cd36-45f5-88df-595df5288795": {
         "id": "378ba8b9-cd36-45f5-88df-595df5288795",
@@ -684,12 +685,12 @@
         "readme": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/3ff55ba7-4690-4f74-96a8-9e4416685e4e/readme.md",
         "image": "https://raw.githubusercontent.com/zen-browser/theme-store/main/themes/3ff55ba7-4690-4f74-96a8-9e4416685e4e/image.png",
         "author": "ocean-mars",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "tags": [
             "tabs"
         ],
         "createdAt": "2024-10-06",
-        "updatedAt": "2025-01-26"
+        "updatedAt": "2026-03-11"
     },
     "180d9426-a020-4bd7-98ec-63f957291119": {
         "id": "180d9426-a020-4bd7-98ec-63f957291119",
