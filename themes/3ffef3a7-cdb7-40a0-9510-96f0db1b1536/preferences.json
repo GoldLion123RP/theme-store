@@ -13,7 +13,7 @@
   },
   {
     "property": "mod.zen-traffic-lights.button_size_large",
-    "label": "Use Mid-Size Buttons",
+    "label": "Use Large Buttons",
     "type": "checkbox",
     "defaultValue": false
   },
